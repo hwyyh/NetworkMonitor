@@ -1,0 +1,24 @@
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Build
+build/
+dist/
+*.spec
+
+# Runtime logs
+logs/
+*.log
+*.csv
+
+# Editors
+.vscode/
+.idea/
+
+# OS files
+Thumbs.db
+.DS_Store
